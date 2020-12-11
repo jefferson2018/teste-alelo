@@ -1,3 +1,2 @@
-INSERT INTO customer (id, name, email) VALUES
-(1, 'Mariazinha', 'mariazinha@email.com'),
-(2, 'Joãozinho', 'joaozinho@email.com');
+INSERT INTO Payload (id, dt_transaction, hora, valor) 
+VALUES(1, '2019-01-01', '13:52:33', 100.00)
